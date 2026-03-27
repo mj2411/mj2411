@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently student of B.sc.(IT).<br>currently I'm learning cyber security.
+My name is Mayur H. jiyani.<br>I'm currently student of B.sc.(IT).<br>currently I'm learning cyber security.
 
 
 ## 🌐 Socials:
