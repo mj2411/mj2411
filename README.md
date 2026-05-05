@@ -1,6 +1,5 @@
 # 💫 About Me:
-My name is Mayur H. jiyani.<br>I'm currently student of B.sc.(IT).<br>currently I'm learning cyber security.
-
+My name is Mayur H. jiyani.<br>I'm currently student of B.sc.(IT).
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.jiyani777) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mayur Jiyani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayurjiyani007@gmail.com) 
